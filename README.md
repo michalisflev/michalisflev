@@ -5,7 +5,9 @@ I'm passionate about learning and sharing knowledge, and I always try to underst
 
 What I do
 🚚 At Picnic I engineer systems that plan how customer orders move through the supply chain, from the warehouse shelf to the customer's door, across European markets.
+
 🧮 I did my summer internship at Picnic on optimization, and I loved it. I ran a feasibility study on replacing a custom algorithm for the Vehicle Routing Problem with Time Windows (VRPTW) with the Timefold solver.
+
 🎓 I recently finished my BSc in Computer Science at the University of Twente.
 
 Teaching and mentoring
